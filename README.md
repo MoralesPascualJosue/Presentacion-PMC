@@ -1,5 +1,5 @@
 <p align="center">
-Presentación creada con revel js.   
+Presentación creada con reveal js.   
 </p>
 <h1>
   <a href="http://pruebaispmc.herokuapp.com/" style="font-size: 3em;">Plataforma Maestría en Construcción.</a>
