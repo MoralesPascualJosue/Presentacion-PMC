@@ -1,3 +1,11 @@
+<p>
+  Presentación creada con revel js.
+
+  
+  <a href="javascript:void(0)">
+  <img src="https://github.com/MoralesPascualJosue/Presentacion-PMC/blob/master/resources/plataforma_capturas/plataforma-inicio.png" alt="presentacion" width="450">
+  </a>
+</p>
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="450">
