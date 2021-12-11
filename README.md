@@ -1,7 +1,6 @@
-<p>
+<p align="center">
   Presentación creada con revel js.
-
-  
+  <br><br>
   <a href="javascript:void(0)">
   <img src="https://github.com/MoralesPascualJosue/Presentacion-PMC/blob/master/resources/plataforma_capturas/plataforma-inicio.png" alt="presentacion" width="450">
   </a>
