@@ -1,0 +1,126 @@
+.bg-white {
+    background-color: white;;
+}
+.bg-orange {
+    background-color: #ffa500;
+}
+.orange-color {
+    color: #ffa500;
+}
+.mg-1 {
+    margin: 1rem;
+}
+.pd-2 {
+    padding: 1rem;
+}
+.text-j {
+    text-align: justify;
+}
+
+.separator-orange {
+    border:#ffa500 solid 5px;
+    background-color: #ffa500;
+}
+.separator-white {
+    border: white solid 5px;
+    background-color: white;
+}
+.border-r-20 {
+    border-radius: 20px;
+}
+
+.div-presentacion-top {
+    display: flex;    
+    background-color: #ffa500;
+    margin: 1rem;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.div-presentacion-bottom {
+    width: 100%;
+}
+
+.div-description-layout {
+    display: flex;    
+}
+
+.description-right {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.description-left {
+    text-align: justify;
+}
+
+.column-layout3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: #ffa500;
+    border-radius: 20px;
+}
+
+.column-layout3 div {
+    height: 100%;
+    padding: 0.5rem;
+}
+
+.div-plataforma-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.5fr 0.5fr;
+}
+
+.div-plataforma-layout div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-plataforma-layout div img {
+    border-radius: 20px;
+}
+
+.plataforma-tittle{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    border-radius: 20px;
+}
+
+.layout-t {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.5fr 0.5fr 1fr 1fr;
+}
+.flex-layout {
+    display: flex;
+}
+.flex-layout-v {
+    display: flex;
+    flex-direction: column;
+}
+.flex-layout-2 {
+    display: grid;
+    grid-template-columns: 0.7fr 1.2fr;    
+}
+.two-columns {
+    grid-column: span 2;
+}
+.orange-p p{
+    color: #ffa500;
+}
+.container-table {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: 40% 60%;
+    justify-content: space-evenly;
+}
+.table-custom td {
+    padding: 0 !important;
+}
